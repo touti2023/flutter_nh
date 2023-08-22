@@ -1,0 +1,6 @@
+name: flutter_num14_website_server
+description: Flutter企业实战
+
+
+dependencies: 
+  http_server: ^1.0.0
